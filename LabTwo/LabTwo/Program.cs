@@ -74,7 +74,7 @@ namespace LabTwo
                 Console.WriteLine($"The width of the {name} is {width}.");
 
                 // James - so I think you forgot to put the {name} in this WriteLine ;)
-                Console.WriteLine($"The area is of the  " + length * width);
+                Console.WriteLine($"The area of the {name} is  " + length * width);
                 Console.WriteLine($"The perimeter of the {name} is " + ((length * 2)+(width * 2)));
 
                 Console.WriteLine("");
